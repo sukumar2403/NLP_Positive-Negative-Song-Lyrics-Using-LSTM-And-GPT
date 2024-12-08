@@ -1,8 +1,6 @@
 # Natural_Language_Processing
 
-Here's a draft for your README file on GitHub:  
 
----
 
 # Positive & Negative Song Lyrics Using LSTM and GPT  
 
