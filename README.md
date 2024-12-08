@@ -73,18 +73,18 @@ pip install -r requirements.txt
 ```
 NLP_Positive-Negative-Song-Lyrics-Using-LSTM-And-GPT/  
 │  
-├── data/                     # Datasets (real and generated lyrics)  
-├── models/                   # Trained models  
-├── notebooks/                # Jupyter notebooks for experimentation  
-├── src/                      # Source code  
-│   ├── preprocess.py         # Data preprocessing scripts  
-│   ├── train_lstm.py         # LSTM training  
-│   ├── generate_gpt.py       # GPT lyric generation  
-│   ├── analyze_similarity.py # Cosine similarity evaluation  
-│  
-├── plots/                    # Generated plots and visualizations  
-├── requirements.txt          # Required dependencies  
-├── README.md                 # Project overview  
+├── Complete.csv                      # Complete dataset of song lyrics  
+├── negative.csv                      # Dataset containing negative song lyrics  
+├── positive.csv                      # Dataset containing positive song lyrics  
+├── Project-Data prep.ipynb           # Jupyter notebook for data preprocessing  
+├── project_analysis_and_generation_gpt.py  
+│                                      # Script for analyzing and generating lyrics with GPT  
+├── DSCI6004-Project_final_presentation.pptx  
+│                                      # Final project presentation  
+├── Positive & Negative Song Lyrics Using LSTM And GPT.pdf  
+│                                      # Project documentation and report  
+├── README.md                          # Project overview and instructions  
+  
 ```  
 
 ## Contributors  
