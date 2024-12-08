@@ -95,6 +95,3 @@ NLP_Positive-Negative-Song-Lyrics-Using-LSTM-And-GPT/
 ## License  
 This project is licensed under the MIT License.  
 
----  
-
-Feel free to modify this as per your preferences or to reflect the exact project details.
